@@ -1,3 +1,14 @@
+Hi,<𝚌𝚘𝚍𝚎𝚛𝚜/>!
+I'm Himel 👋, a tech enthusiast who loves creating innovative web solutions.
+🌱 I’m currently working A (Data Analyst) the "MAINETTI"
+🔍 I’m diving deeper into Python and backend development
+🤝 I’m looking to collaborate on full-stack web development projects
+🚀 My dream: To become the world’s number one full-stack web developer
+💬 Ask me about: Programming, Web Development, Web Design, Web Applications, Web Hosting
+📧 How to reach me: towhidhossan37@gmail.com
+🌍 Fun fact: I aspire to travel the entire world someday!
+Feel free to connect with me—I'm always open to new opportunities and conversations! 😊
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdnadim.nadim.100046) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/towhid_hossan_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/towhid-hossan/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/towhid_hossan) 
